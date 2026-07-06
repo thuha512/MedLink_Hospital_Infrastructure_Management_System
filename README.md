@@ -1,7 +1,5 @@
 # MEDLINK HOSPITAL DEVICE ACCESS
 
-> **Đồ án môn Cơ sở dữ liệu**  
-> Trường Quốc tế – Đại học Quốc gia Hà Nội
 
 ---
 
