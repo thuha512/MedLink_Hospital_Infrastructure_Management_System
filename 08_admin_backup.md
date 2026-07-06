@@ -32,7 +32,7 @@ Server
 Chọn cơ sở dữ liệu:
 
 ```
-medlink_hospital_device_access
+medlinkhospital
 ```
 
 ---
@@ -184,7 +184,7 @@ medlink_backup.sql
 Chọn cơ sở dữ liệu đích:
 
 ```
-medlink_hospital_device_access
+medlinkhospital
 ```
 
 Nhấn:
@@ -206,7 +206,7 @@ Import Completed Successfully.
 Nếu cơ sở dữ liệu chưa tồn tại:
 
 ```sql
-CREATE DATABASE medlink_hospital_device_access;
+CREATE DATABASE medlinkhospital;
 ```
 
 Sau đó thực hiện:
@@ -263,7 +263,7 @@ SHOW TRIGGERS;
 
 ```sql
 SHOW PROCEDURE STATUS
-WHERE Db='medlink_hospital_device_access';
+WHERE Db='medlinkhospital';
 ```
 
 ---
@@ -272,7 +272,7 @@ WHERE Db='medlink_hospital_device_access';
 
 ```sql
 SHOW FUNCTION STATUS
-WHERE Db='medlink_hospital_device_access';
+WHERE Db='medlinkhospital';
 ```
 
 ---
@@ -301,7 +301,7 @@ Cơ sở dữ liệu chưa được tạo.
 Khắc phục:
 
 ```sql
-CREATE DATABASE medlink_hospital_device_access;
+CREATE DATABASE medlinkhospital;
 ```
 
 ---
