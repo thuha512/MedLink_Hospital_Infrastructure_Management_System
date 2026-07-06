@@ -182,14 +182,14 @@ Các câu truy vấn trong tệp này vừa phục vụ việc kiểm thử hệ
 
 | Tài liệu | Mô tả |
 |----------|------|
-| [Báo cáo đồ án](MedLink_Hospital_Device_Access_Report.pdf) | Báo cáo hoàn chỉnh của dự án |
+| [Báo cáo đồ án](report.pdf) | Báo cáo hoàn chỉnh của dự án |
 | [Sơ đồ ERD](erd.png) | Mô hình thực thể - liên kết |
 | [01_schema.sql](01_schema.sql) | Tạo cơ sở dữ liệu và các bảng |
 | [02_seed_data.sql](02_seed_data.sql) | Dữ liệu mẫu |
 | [03_queries.sql](03_queries.sql) | Bộ câu truy vấn SQL |
 | [04_views.sql](04_views.sql) | Tạo các View |
 |  [05_routines.sql](05_routines.sql) | Stored Procedure và Function |
-|  [06_triggers_events.sql](06_triggers_events.sql) | Trigger và Event |
+|  [06_triggers_events.sql](06_triggers.sql) | Trigger và Event |
 |  [07_indexes_explain.sql](07_indexes_explain.sql) | Secondary Index và EXPLAIN |
 |  [08_admin_backup.md](08_admin_backup.md) | Hướng dẫn Backup và Restore |
 |  [09_tests.sql](09_tests.sql) | Kịch bản kiểm thử |
