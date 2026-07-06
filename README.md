@@ -240,8 +240,3 @@ Học phần: **Cơ sở dữ liệu**
 
 Trường Quốc tế – Đại học Quốc gia Hà Nội
 
----
-
-# Giấy phép
-
-Repository được xây dựng phục vụ mục đích học tập và nghiên cứu trong học phần **Cơ sở dữ liệu**. Toàn bộ mã nguồn và tài liệu chỉ sử dụng cho mục đích học thuật.
