@@ -17,7 +17,9 @@ Hệ thống được triển khai trên **MySQL 8.0**, áp dụng các kỹ thu
 
 Sơ đồ thực thể - liên kết (Entity Relationship Diagram) mô tả cấu trúc và mối quan hệ giữa các bảng trong cơ sở dữ liệu.
 
-**[Sơ đồ ERD](erd.png)**
+[📥 Xem ảnh gốc](erd.png)
+
+![ERD](erd.png)
 
 ---
 
